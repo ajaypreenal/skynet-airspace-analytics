@@ -1,0 +1,8 @@
+streamlit
+pydeck
+pandas
+numpy
+requests
+duckdb
+plotly
+python-dotenv
